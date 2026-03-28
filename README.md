@@ -1,8 +1,5 @@
 ##  AI-assisted offensive security platform for modern bug hunters.
 
----
-
-
 
 Modern applications don’t fail loudly — they fail quietly, across complex attack surfaces, dynamic endpoints, and real-time protocols that traditional tooling often misses.
 
